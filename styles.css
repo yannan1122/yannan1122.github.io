@@ -283,33 +283,22 @@ h3 {
 }
 
 .profile-portrait {
-  display: grid;
+  display: block;
   width: 200px;
   height: 200px;
-  place-items: center;
   border: 1px solid #dfe4e8;
   border-radius: 0.25rem;
-  background: var(--accent);
-  color: #fff;
-  font-size: 4.5rem;
-  font-weight: 300;
-  letter-spacing: -0.1em;
-  line-height: 1;
-  padding-right: 0.1em;
+  object-fit: cover;
+  object-position: center;
 }
 
 .profile-mark-mobile {
   display: none;
   width: 48px;
   height: 48px;
-  place-items: center;
   border-radius: 50%;
-  background: var(--accent);
-  color: #fff;
-  font-size: 1.1rem;
-  letter-spacing: -0.08em;
-  line-height: 1;
-  padding-right: 0.08em;
+  object-fit: cover;
+  object-position: center;
 }
 
 hr {
@@ -645,7 +634,7 @@ section[id] {
   }
 
   .profile-mark-mobile {
-    display: grid;
+    display: block;
   }
 
   .experience-list {
