@@ -1,4 +1,4 @@
-const navToggle = document.querySelector('.nav-toggle');
+const navToggle = document.querySelector('.navbar-toggler');
 const primaryNav = document.querySelector('#primary-nav');
 const navLinks = [...document.querySelectorAll('.nav-link:not(.nav-cv)')];
 
