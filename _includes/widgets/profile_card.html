@@ -56,9 +56,6 @@
                         {% if site.data.profile.availability_text %}
                         <p class="text-danger mb-0"><strong>{{ site.data.profile.availability_text }}</strong></p>
                         {% endif %}
-                        {% if site.data.profile.cv_link %}
-                            <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>
-                        {% endif %}
                     </div>
         
                 </div>
@@ -86,6 +83,12 @@
                         {% if site.data.profile.whatsapp %}
                         <a class="pr-3 no-break" target="_blank" rel="noreferrer" href="https://wa.me/{{ site.data.profile.whatsapp }}">
                             <i class="fab fa-whatsapp"></i> WhatsApp
+                        </a>
+                        {% endif %}
+
+                        {% if site.data.profile.cv_link %}
+                        <a class="pr-3 no-break" target="_blank" href="{{ site.data.profile.cv_link | relative_url }}">
+                            <i class="fas fa-file-alt"></i> Curriculum Vitae
                         </a>
                         {% endif %}
 
