@@ -11,12 +11,17 @@
                                 <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 22px; height: 22px; object-fit: contain;" class="mr-2 mt-1">
                             {% endif %}
                             <div class="media-body">
-                                <div>{{ item.name }}</div>
+                                <div>{% if item.url %}<a target="_blank" rel="noreferrer" href="{{ item.url }}">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}</div>
                                 <div class="small d-flex">
                                     <div>{{ item.position }}</div>
                                     <div class="mt-auto ml-auto no-break"><em>{{ item.date }}</em></div>
                                 </div>
                                 {% if item.dept %}<div class="small text-muted">{{ item.dept }}</div>{% endif %}
+                                {% if item.supervisor %}
+                                <div class="small">Supervisor:
+                                    {% if item.supervisor_url %}<a target="_blank" rel="noreferrer" href="{{ item.supervisor_url }}">{{ item.supervisor }}</a>{% else %}{{ item.supervisor }}{% endif %}
+                                </div>
+                                {% endif %}
                             </div>
                         </li>
                         {% endfor %}

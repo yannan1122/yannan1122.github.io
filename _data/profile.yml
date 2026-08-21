@@ -5,6 +5,7 @@ navbar_name: "Yannan Li"
 positions:
 - logo: /assets/icon/ucl-crest.svg
   name: University College London
+  url: https://www.ucl.ac.uk/
 
 research_interests:
 - Behavioural Neuroscience
@@ -30,43 +31,60 @@ portrait_url: /assets/avatar.jpg
 education:
 - name: University College London
   logo: /assets/icon/ucl-crest.svg
+  url: https://www.ucl.ac.uk/
   dept: Drug Mechanisms · Pharmacology and Neurosciences
   position: BSc Biomedical Sciences
-  date: Expected 2026
+  date: Graduated Aug. 2026
 - name: Pennon Education
   position: A-Levels
   dept: Biology, Chemistry, Mathematics, Further Mathematics · All graded A
   date: 2019 - 2021
 
 experience:
-- name: Psychopharmacology Laboratory, Peking University Sixth Hospital
+- name: Peking University Sixth Hospital
   logo: /assets/icon/pku-sixth-hospital.jpg
-  dept: Beijing, China
+  url: https://www.pkuh6.cn/
+  dept: Psychopharmacology Laboratory · Beijing, China
+  supervisor: Prof. Tianmei Si
+  supervisor_url: https://www.sciencedirect.com/author/57213371674/tianmei-si
   position: Research Intern
   date: Jul. 2024 - Oct. 2024
-- name: Virus Pharmacology Laboratory, Institute of Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College
+- name: Chinese Academy of Medical Sciences & Peking Union Medical College
   logo: /assets/icon/pumc.png
-  dept: Beijing, China
+  url: https://www.pumc.edu.cn/
+  dept: Virus Pharmacology Laboratory, Institute of Biotechnology · Beijing, China
+  supervisor: Prof. Jiandong Jiang
+  supervisor_url: https://www.camsoxford.ox.ac.uk/Team/jiandong-jiang
   position: Research Intern
   date: Oct. 2024 - Jan. 2025
 - name: University College London
   logo: /assets/icon/ucl-crest.svg
-  dept: London, United Kingdom
+  url: https://www.ucl.ac.uk/
+  dept: Research Project in Neuropharmacology · London, United Kingdom
+  supervisor: Prof. Alasdair Gibb
+  supervisor_url: https://www.ucl.ac.uk/life-sciences/npp/research/phd
   position: Research Project in Neuropharmacology
   date: Sep. 2023 - Jun. 2025
 - name: University College London
   logo: /assets/icon/ucl-crest.svg
-  dept: London, United Kingdom
+  url: https://www.ucl.ac.uk/
+  dept: Research Project in Cancer Mechanobiology and Immunotherapy · London, United Kingdom
+  supervisor: Dr. Dean Willis
+  supervisor_url: https://www.ucl.ac.uk/life-sciences/news/2024/jun/dr-dean-willis-appointed-new-biosciences-associate-director
   position: Research Project in Cancer Mechanobiology and Immunotherapy
   date: Sep. 2022 - Jun. 2023
-- name: Marine Glycol-Engineered Drugs Lab, Ocean University of China
+- name: Ocean University of China
   logo: /assets/icon/ouc.png
-  dept: Qingdao, China
+  url: https://eweb.ouc.edu.cn/smp/17030/list.htm
+  dept: Marine Glycol-Engineered Drugs Lab · Qingdao, China
+  supervisor: Prof. Xia Zhao
+  supervisor_url: https://smp.ouc.edu.cn/2019/0826/c17385a257546/page.htm
   position: Research Intern
   date: Aug. 2022
 
 services:
 - name: Biomedical Sciences, University College London
+  url: https://www.ucl.ac.uk/
   position: Transition Mentor
   date: Sep. 2022 - Dec. 2022
 - name: Academic Seminars and Workshops, Micro Distance Youth Forum
