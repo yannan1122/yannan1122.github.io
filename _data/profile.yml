@@ -1,0 +1,90 @@
+primary_name: "Yannan Li"
+secondary_name: ""
+navbar_name: "Yannan Li"
+
+positions:
+- logo: /assets/icon/ucl-crest.svg
+  name: University College London
+- name: Behavioural Neuroscience · Mouse Models
+- name: Experimental Neuroscience & Data Analysis
+
+emails:
+- "yannan.li.21@ucl.ac.uk"
+phone: "+86 18669899027"
+whatsapp: "447526798073"
+cv_link: /assets/CV___Yannan_LI.pdf
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am a Biomedical Sciences undergraduate at University College London, specialising in Drug Mechanisms with an emphasis on Pharmacology and Neurosciences. My research experience spans psychopharmacology, neuropharmacology, virology and cancer mechanobiology, with hands-on experience in mouse husbandry, behavioural paradigms, tissue processing and molecular assays.
+  </p>
+  <p>
+    <b>Research Interests:</b><br />
+    Behavioural neuroscience, mouse models, neuropharmacology, experimental neuroscience and data analysis.
+  </p>
+  <p>
+    Please feel free to contact me via email for research-related enquiries.
+  </p>
+
+portrait_url: /assets/avatar.jpg
+
+education:
+- name: University College London
+  logo: /assets/icon/ucl-crest.svg
+  dept: Drug Mechanisms · Pharmacology and Neurosciences
+  position: BSc Biomedical Sciences
+  date: Expected 2026
+- name: Pennon Education
+  position: A-Levels
+  dept: Biology, Chemistry, Mathematics, Further Mathematics · All graded A
+  date: 2019 - 2021
+
+experience:
+- name: Psychopharmacology Laboratory, Peking University Sixth Hospital
+  logo: /assets/icon/pku-sixth-hospital.jpg
+  dept: Beijing, China
+  position: Research Intern
+  date: Jul. 2024 - Oct. 2024
+- name: Virus Pharmacology Laboratory, Institute of Biotechnology, Chinese Academy of Medical Sciences & Peking Union Medical College
+  logo: /assets/icon/pumc.png
+  dept: Beijing, China
+  position: Research Intern
+  date: Oct. 2024 - Jan. 2025
+- name: University College London
+  logo: /assets/icon/ucl-crest.svg
+  dept: London, United Kingdom
+  position: Research Project in Neuropharmacology
+  date: Sep. 2023 - Jun. 2025
+- name: University College London
+  logo: /assets/icon/ucl-crest.svg
+  dept: London, United Kingdom
+  position: Research Project in Cancer Mechanobiology and Immunotherapy
+  date: Sep. 2022 - Jun. 2023
+- name: Marine Glycol-Engineered Drugs Lab, Ocean University of China
+  logo: /assets/icon/ouc.png
+  dept: Qingdao, China
+  position: Research Intern
+  date: Aug. 2022
+
+services:
+- name: Biomedical Sciences, University College London
+  position: Transition Mentor
+  date: Sep. 2022 - Dec. 2022
+- name: Academic Seminars and Workshops, Micro Distance Youth Forum
+  position: Co-organiser
+  date: Aug. 2023
+
+skills:
+- name: Animal Behaviour
+  detail: Mouse husbandry, DAT-Cre models, behavioural paradigm design, observation and data recording.
+- name: Behavioural Tests
+  detail: MWM, SPT, OFT and TST; early-life stress models and conditioned reflex paradigms.
+- name: Wet Lab
+  detail: Cell culture, PCR/qPCR, Western blotting, CPE assessment, drug screening, c-Fos and immunofluorescence staining.
+- name: Data Analysis
+  detail: Behavioural data organisation and statistical analysis using Excel and Python.
+- name: Research Practice
+  detail: Literature review, record-keeping, SOP adherence, troubleshooting, scientific writing and presentations.
+- name: Languages
+  detail: Mandarin (Native), English (Fluent), Japanese (Conversational), French (Conversational).
