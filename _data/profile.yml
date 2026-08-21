@@ -21,7 +21,7 @@ cv_link: /assets/CV___Yannan_LI.pdf
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Biomedical Sciences undergraduate at University College London, specialising in Drug Mechanisms with an emphasis on Pharmacology and Neurosciences. My research experience spans psychopharmacology, neuropharmacology, virology and cancer mechanobiology, with hands-on experience in mouse husbandry, behavioural paradigms, tissue processing and molecular assays.
+    I am a Biomedical Sciences undergraduate at <a href="https://www.ucl.ac.uk/" target="_blank" rel="noreferrer">University College London</a>, specialising in Drug Mechanisms with an emphasis on Pharmacology and Neurosciences. My research experience spans psychopharmacology, neuropharmacology, virology and cancer mechanobiology, with hands-on experience in mouse husbandry, behavioural paradigms, tissue processing and molecular assays.
   </p>
 contact_text: Please feel free to contact me via email for research-related enquiries.
 availability_text: I am currently seeking MPhil, Research Assistant (RA), and PhD opportunities for Spring 2027 or Fall 2027.
@@ -46,7 +46,7 @@ experience:
   url: https://www.pkuh6.cn/
   dept: Psychopharmacology Laboratory · Beijing, China
   supervisor: Prof. Tianmei Si
-  supervisor_url: https://www.sciencedirect.com/author/57213371674/tianmei-si
+  supervisor_url: https://www.pkuh6.cn/Html/News/Columns/304/Index.html
   position: Research Intern
   date: Jul. 2024 - Oct. 2024
   details:
@@ -71,7 +71,7 @@ experience:
   url: https://www.ucl.ac.uk/
   dept: Research Project in Neuropharmacology · London, United Kingdom
   supervisor: Prof. Alasdair Gibb
-  supervisor_url: https://www.ucl.ac.uk/life-sciences/npp/research/phd
+  supervisor_url: https://profiles.ucl.ac.uk/5224-alasdair-gibb
   position: Research Project in Neuropharmacology
   date: Sep. 2023 - Jun. 2025
   details:
@@ -82,7 +82,7 @@ experience:
   url: https://www.ucl.ac.uk/
   dept: Research Project in Cancer Mechanobiology and Immunotherapy · London, United Kingdom
   supervisor: Dr. Dean Willis
-  supervisor_url: https://www.ucl.ac.uk/life-sciences/news/2024/jun/dr-dean-willis-appointed-new-biosciences-associate-director
+  supervisor_url: https://profiles.ucl.ac.uk/4686-dean-willis
   position: Research Project in Cancer Mechanobiology and Immunotherapy
   date: Sep. 2022 - Jun. 2023
   details:
@@ -104,6 +104,7 @@ services:
   position: Transition Mentor
   date: Sep. 2022 - Dec. 2022
 - name: Academic Seminars and Workshops, Micro Distance Youth Forum
+  url: https://www.microengine.org/
   position: Co-organiser
   date: Aug. 2023
 
