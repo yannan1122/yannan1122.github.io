@@ -22,6 +22,13 @@
                                     {% if item.supervisor_url %}<a target="_blank" rel="noreferrer" href="{{ item.supervisor_url }}">{{ item.supervisor }}</a>{% else %}{{ item.supervisor }}{% endif %}
                                 </div>
                                 {% endif %}
+                                {% if item.details %}
+                                <ul class="small text-muted mb-0 pl-3 mt-1">
+                                    {% for detail in item.details %}
+                                    <li>{{ detail }}</li>
+                                    {% endfor %}
+                                </ul>
+                                {% endif %}
                             </div>
                         </li>
                         {% endfor %}

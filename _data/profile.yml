@@ -49,6 +49,11 @@ experience:
   supervisor_url: https://www.sciencedirect.com/author/57213371674/tianmei-si
   position: Research Intern
   date: Jul. 2024 - Oct. 2024
+  details:
+  - Designed behavioural paradigms and conducted experiments in DAT-Cre transgenic mice, including conditioned reflex and early-life stress models, Morris water maze (MWM), sucrose preference test (SPT), open field (OFT) and tail suspension tests (TST).
+  - Handled and monitored over 100 mice, including ear-punch identification, routine husbandry, feeding, daily health monitoring and systematic behavioural data recording.
+  - Assisted with perfusion, blood collection, brain collection and sectioning for a study cohort of over 400 mice.
+  - Performed PCR-based genotyping and qPCR, Western blotting, immunofluorescence and c-Fos immunostaining to relate behavioural phenotypes to molecular readouts; maintained records, troubleshot procedures and assisted with manuscript preparation.
 - name: Chinese Academy of Medical Sciences & Peking Union Medical College
   logo: /assets/icon/pumc.png
   url: https://www.pumc.edu.cn/
@@ -57,6 +62,10 @@ experience:
   supervisor_url: https://www.camsoxford.ox.ac.uk/Team/jiandong-jiang
   position: Research Intern
   date: Oct. 2024 - Jan. 2025
+  details:
+  - Performed cell-based antiviral drug screening using HSV-1 and Coxsackievirus B3 infection models.
+  - Conducted mammalian cell culture, cytotoxicity assays, cytopathic effect (CPE) assessment, IC50 determination, PCR-based viral detection and Western blotting.
+  - Integrated cell viability, viral replication and protein expression data; assisted with experimental planning, data interpretation and presentation of findings.
 - name: University College London
   logo: /assets/icon/ucl-crest.svg
   url: https://www.ucl.ac.uk/
@@ -65,6 +74,9 @@ experience:
   supervisor_url: https://www.ucl.ac.uk/life-sciences/npp/research/phd
   position: Research Project in Neuropharmacology
   date: Sep. 2023 - Jun. 2025
+  details:
+  - Conducted a systematic review on the role of calcium channel blockers in Parkinson's disease.
+  - Conducted a meta-analysis of clinical evidence, including study selection, data extraction, statistical interpretation and evidence synthesis.
 - name: University College London
   logo: /assets/icon/ucl-crest.svg
   url: https://www.ucl.ac.uk/
@@ -73,6 +85,8 @@ experience:
   supervisor_url: https://www.ucl.ac.uk/life-sciences/news/2024/jun/dr-dean-willis-appointed-new-biosciences-associate-director
   position: Research Project in Cancer Mechanobiology and Immunotherapy
   date: Sep. 2022 - Jun. 2023
+  details:
+  - Reviewed mechanosensitive Piezo channels in cancer progression and therapy, synthesising evidence on mechanotransduction, tumour biology, immune responses and therapeutic sensitivity.
 - name: Ocean University of China
   logo: /assets/icon/ouc.png
   url: https://eweb.ouc.edu.cn/smp/17030/list.htm
@@ -81,6 +95,8 @@ experience:
   supervisor_url: https://smp.ouc.edu.cn/2019/0826/c17385a257546/page.htm
   position: Research Intern
   date: Aug. 2022
+  details:
+  - Extracted, isolated and characterised marine-derived polysaccharides using HPLC, GC-MS and NMR.
 
 services:
 - name: Biomedical Sciences, University College London
