@@ -5,8 +5,11 @@ navbar_name: "Yannan Li"
 positions:
 - logo: /assets/icon/ucl-crest.svg
   name: University College London
-- name: Behavioural Neuroscience · Mouse Models
-- name: Experimental Neuroscience & Data Analysis
+
+research_interests:
+- Behavioural Neuroscience
+- Mouse Models
+- Experimental Neuroscience & Data Analysis
 
 emails:
 - "yannan.li.21@ucl.ac.uk"
@@ -20,11 +23,10 @@ short_bio: >-
     I am a Biomedical Sciences undergraduate at University College London, specialising in Drug Mechanisms with an emphasis on Pharmacology and Neurosciences. My research experience spans psychopharmacology, neuropharmacology, virology and cancer mechanobiology, with hands-on experience in mouse husbandry, behavioural paradigms, tissue processing and molecular assays.
   </p>
   <p>
-    <b>Research Interests:</b><br />
-    Behavioural neuroscience, mouse models, neuropharmacology, experimental neuroscience and data analysis.
-  </p>
-  <p>
     Please feel free to contact me via email for research-related enquiries.
+  </p>
+  <p class="text-danger">
+    <strong>I am currently seeking MPhil, Research Assistant (RA), and PhD opportunities for Spring 2027 or Fall 2027.</strong>
   </p>
 
 portrait_url: /assets/avatar.jpg

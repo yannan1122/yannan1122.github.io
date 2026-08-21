@@ -37,6 +37,16 @@
                             {{ position.name }}<br/>
                             {% endfor %}
                         </div>
+                        {% if site.data.profile.research_interests %}
+                        <div class="text-profile-interests mt-2">
+                            <strong>Research Interests:</strong>
+                            <ul class="mb-0 pl-4">
+                                {% for interest in site.data.profile.research_interests %}
+                                <li>{{ interest }}</li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                        {% endif %}
                         <div class="text-profile-bio mt-3" {% if site.data.profile.short_bio_text_justify %}style="text-align: justify;"{% endif %}>
                             {{ site.data.profile.short_bio }}
                         </div>

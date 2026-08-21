@@ -1,5 +1,7 @@
 pages:
 - name: Home
   url: /
+- name: Research Experience
+  url: /#experience
 - name: CV
   url: /assets/CV___Yannan_LI.pdf
