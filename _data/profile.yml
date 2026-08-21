@@ -22,12 +22,8 @@ short_bio: >-
   <p>
     I am a Biomedical Sciences undergraduate at University College London, specialising in Drug Mechanisms with an emphasis on Pharmacology and Neurosciences. My research experience spans psychopharmacology, neuropharmacology, virology and cancer mechanobiology, with hands-on experience in mouse husbandry, behavioural paradigms, tissue processing and molecular assays.
   </p>
-  <p>
-    Please feel free to contact me via email for research-related enquiries.
-  </p>
-  <p class="text-danger">
-    <strong>I am currently seeking MPhil, Research Assistant (RA), and PhD opportunities for Spring 2027 or Fall 2027.</strong>
-  </p>
+contact_text: Please feel free to contact me via email for research-related enquiries.
+availability_text: I am currently seeking MPhil, Research Assistant (RA), and PhD opportunities for Spring 2027 or Fall 2027.
 
 portrait_url: /assets/avatar.jpg
 
